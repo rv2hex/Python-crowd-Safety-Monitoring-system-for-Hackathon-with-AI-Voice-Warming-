@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="CROWD_SENTINEL banner" width="100%" />
+</div>
+
 # Crowd Safety Monitoring System
 
 Hackathon group project — real-time crowd risk detection from a video feed
